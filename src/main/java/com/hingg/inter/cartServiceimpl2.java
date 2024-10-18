@@ -9,7 +9,7 @@ public class cartServiceimpl2 implements CartService {
 	public void addCart() {
 		// TODO Auto-generated method stub
 		
-		System.out.println("this is qualifier 2");
+		System.out.println("this is qualifier 22");
 		
 	}
 
